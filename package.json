@@ -2,7 +2,7 @@
   "name": "alt-second-semester",
   "version": "1.0.0",
   "description": "",
-  "main": "Blog.js",
+  "main": "index.js",
   "engines":{
     "node": "18.x"
   },
